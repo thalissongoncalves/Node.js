@@ -1,0 +1,6 @@
+Instalar o Node.js pelo terminal linux:
+apt-get install node
+
+Ver a versão do node na máquina:
+node -v
+
