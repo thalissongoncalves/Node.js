@@ -1,0 +1,14 @@
+- para criar o arquivo de configurações package.json:
+    npm init
+
+
+- comando para instalar o express e salvar no package.json como dependencia:
+    npm install express --save
+
+
+- a biblioteca "fs" serve para lidar com file system, arquivos de sistema.
+    const fs = require("fs")
+
+
+- Existe o site Postman para fazer solicitações via HTTP para API's.
+    https://web.postman.co/
