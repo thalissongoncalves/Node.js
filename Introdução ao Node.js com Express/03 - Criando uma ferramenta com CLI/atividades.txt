@@ -1,0 +1,4 @@
+Atividade Prática:
+- Criar uma CLI simples para procurar arquivos em um diretório;
+- Instalar local para desenvolvimento e testes;
+- Passo a passo para publicar a CLI no NPM;

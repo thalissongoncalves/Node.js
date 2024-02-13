@@ -1,0 +1,9 @@
+npm link (cria um link simbólico ligando a pasta do projeto à pasta do node js)
+
+search-files .json (retorna todos os arquivos .json do diretório)
+
+https://www.npmjs.com/  (site do npm)
+
+npm adduser (serve para fazer o login no npm pelo terminal)
+
+npm publish (serve para publicar no npm o meu projeto)
